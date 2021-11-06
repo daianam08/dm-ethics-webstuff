@@ -13,7 +13,7 @@ p{
  font-family: 'Lora', serif; 
 }
 
-ul{
+#listStuff{
   width: 500px;
   background-color: white;
   border-width: 2px;
@@ -27,3 +27,6 @@ li{
   color: darkblue;
 }
   
+#imgbanner{
+  width: 200px;
+}
