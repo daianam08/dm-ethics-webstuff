@@ -13,7 +13,7 @@ p{
  font-family: 'Lora', serif; 
 }
 
-#listStuff{
+ul{
   width: 500px;
   background-color: white;
   border-width: 2px;
