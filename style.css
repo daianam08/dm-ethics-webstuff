@@ -30,7 +30,6 @@ li{
 #imgbanner{
   display: flex;
   align-items: center;
-  justify-content: center;
 }
 #imgbanner img{
   width: 200px;
