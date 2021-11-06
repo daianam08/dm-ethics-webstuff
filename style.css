@@ -2,6 +2,7 @@
 
 body{
   background-color: antiquewhite;
+  margin: 20px;
 }
 h1{
   font-family: 'Yeseva One', cursive;
@@ -9,6 +10,12 @@ h1{
 
 p{
  font-family: 'Lora', serif; 
+}
+
+ul{
+  border-width: 2px;
+  border-color: pink;
+  border-style: dotted;
 }
 
 li{
