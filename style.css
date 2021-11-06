@@ -28,6 +28,9 @@ li{
 }
   
 #imgbanner{
+  display: flex;
+}
+#imgbanner img{
   width: 200px;
   height: auto;
 }
