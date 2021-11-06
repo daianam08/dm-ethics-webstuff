@@ -44,3 +44,8 @@ form{
   width: 200px;
   background-color: lightgray;
 }
+
+.sidebyside{
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
