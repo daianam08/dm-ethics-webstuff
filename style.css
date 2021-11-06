@@ -5,6 +5,7 @@ body{
   margin: 20px;
 }
 h1{
+  height: 200px;
   font-family: 'Yeseva One', cursive;
   color: white;
   background-image: url("https://images1.content-hci.com/commimg/myhotcourses/blog/post/myhc_89683.jpg");
