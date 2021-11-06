@@ -13,6 +13,8 @@ p{
 }
 
 ul{
+  width: 500px;
+  background-color: white;
   border-width: 2px;
   border-color: pink;
   border-style: dotted;
