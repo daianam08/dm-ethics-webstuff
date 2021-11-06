@@ -6,7 +6,8 @@ body{
 }
 h1{
   font-family: 'Yeseva One', cursive;
-  color: blue;
+  color: white;
+  background-image: url("https://images1.content-hci.com/commimg/myhotcourses/blog/post/myhc_89683.jpg");
 }
 
 p{
@@ -26,15 +27,6 @@ li{
   font-size: 125%;
   color: darkblue;
 }
-  
-#imgbanner{
-  display: flex;
-  align-items: center;
-}
-#imgbanner img{
-  width: 200px;
-  height: auto;
-}
 
 form{
   border-style: solid;
@@ -47,4 +39,9 @@ form{
 .sidebyside{
   display: grid;
   grid-template-columns: 2fr 1fr;
+}
+
+#customIcon{
+  width: 20px;
+  height: 20px;
 }
